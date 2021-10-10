@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/copy_v2.png</file>
+        <file>img/cut.png</file>
+        <file>img/document_new.png</file>
+        <file>img/document_save_as.png</file>
+        <file>img/exit.png</file>
+        <file>img/gnome_document_open.png</file>
+        <file>img/paste.png</file>
+        <file>img/printer_text.png</file>
+        <file>img/redo.png</file>
+        <file>img/undo.png</file>
+    </qresource>
+</RCC>
